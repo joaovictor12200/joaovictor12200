@@ -20,7 +20,8 @@
   <a href="https://instagram.com/_victorzsz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-galv%C3%A3o-lopes-418726249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joaovictor12200capa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/_victorzsz_" target="_blank"><img src="e=mc²-portfólio.svg" target="_blank"></a>
+   <a href="https://mini-portfolio-victorzsz.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-portf%C3%B3lio-blue?style=for-the-badge&logo=apache&logoColor=white" target="_blank"></a>
+
  
   ![Snake animation](https://github.com/joaovictor12200/joaovictor12200/blob/output/github-contribution-grid-snake.svg)
 
